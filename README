@@ -1,0 +1,28 @@
+### Running your application:
+
+# 1. Create a new Python environment and activate it:
+
+# ```bash
+# python -m venv env
+# source env/bin/activate
+# ```
+
+# 2. Install Flask:
+
+# ```bash
+# pip install flask
+# ```
+
+# 3. Save the application as `app.py` and run:
+
+# ```bash
+# python app.py
+# ```
+
+# ### Using the website:
+# - Open your browser and navigate to `http://localhost:5000`.
+# - You can add items to your todo list.
+
+# ### Next Steps:
+
+# Would you like help setting up automated testing, Dockerizing this app, or deploying it to Kubernetes?
